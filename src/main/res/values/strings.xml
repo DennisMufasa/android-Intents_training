@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">training</string>
+    <string name="app_name">playground</string>
     <string name="title_activity_story">story</string>
     <string name="and">&amp;</string>
     <string name="large_text">
@@ -92,4 +92,24 @@
         "when a user tries to pick up one of cards.\n\n"
     </string>
     <string name="action_settings">Settings</string>
+    <string name="title_activity_home">home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Dennis</string>
+    <string name="nav_header_subtitle">deny@email.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Music</string>
+    <string name="menu_gallery">video</string>
+    <string name="menu_slideshow">pictures</string>
+    <string name="menu_tools">fetch</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">save</string>
+    <string name="btnPlay">PLAY</string>
+    <string name="btnStop">STOP</string>
+    <string name="btnPause">PAUSE</string>
+    <string name="title_activity_me">Map</string>
+    <string name="lblreg">Register</string>
+    <string name="hintFind">enter username</string>
+    <string name="find">FIND</string>
 </resources>
